@@ -5,6 +5,7 @@ This is a Flask web application for processing images by removing background and
 ## Prerequisites
 
 - Python (3.8 or higher)
+
 Visit the official Python website: https://www.python.org/
 Navigate to the Downloads section and choose the latest version suitable for your operating system.
 Download the installer and run it.
